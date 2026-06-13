@@ -4,8 +4,6 @@ I'm a Security Researcher specializing in smart contract audits with a proven tr
 
 Previous Life: 2 years of experience as a fullstack developer at Department of Exact Sciences - UNIMONTES.
 
-For private audits or security consulting, please contact me on Twitter ([@shiazinho](https://x.com/shiazinho)) or Discord ([shiazinho](https://discord.com/users/shiazinho)).
-
 ### Highlights 
 
 - Ranked top 6 at LayerEdge - Staking (sherlock.xyz) competition
